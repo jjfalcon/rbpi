@@ -9,5 +9,6 @@
 ## Proyectos
 
 [Configura tu Raspberry Pi para reproducir música y vídeos vía AirPlay](https://hipertextual.com/2020/10/raspberry-pi-musica-video-airplay)
+[Reproductor de música y despertador con pantalla táctil con Arduino](https://descubrearduino.com/reproductor-de-musica/)
 
 
