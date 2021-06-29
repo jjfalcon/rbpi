@@ -2,6 +2,7 @@
 
 * [Primeros pasos](http://diegorys.es/2014/11/03/primeros-pasos-con-raspberry-pi/)
 * [De cero a maker: todo lo necesario para empezar con Raspberry Pi](https://m.xataka.com/makers/cero-maker-todo-necesario-para-empezar-raspberry-pi/amp?__twitter_impression=true)
+* [Acceso remoto a Raspberry](http://www.diverteka.com/?p=1083)
 
 ## Herramientas
 
