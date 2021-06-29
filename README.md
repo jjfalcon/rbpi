@@ -1,6 +1,7 @@
 # rbpi
 
-[De cero a maker: todo lo necesario para empezar con Raspberry Pi](https://m.xataka.com/makers/cero-maker-todo-necesario-para-empezar-raspberry-pi/amp?__twitter_impression=true)
+* [Primeros pasos](http://diegorys.es/2014/11/03/primeros-pasos-con-raspberry-pi/)
+* [De cero a maker: todo lo necesario para empezar con Raspberry Pi](https://m.xataka.com/makers/cero-maker-todo-necesario-para-empezar-raspberry-pi/amp?__twitter_impression=true)
 
 ## Herramientas
 
